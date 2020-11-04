@@ -2,5 +2,7 @@
 
 Proyek ini dibuat berdasarkan tugas mata kuliah Pengantar Robotika Universitas Bhayangkara Jakarta Raya
 
+Download Remote for Android App [Here](https://apk.tools/details-boarduino-apk/)
+
 Thanks To :
 MAD Project
